@@ -13,7 +13,7 @@ const LandbotChat = () => {
           script.addEventListener('load', () => {
            // @ts-expect-error: The Landbot object is added dynamically, so TypeScript doesn't recognize it
             new window.Landbot.Livechat({
-              configUrl: 'https://storage.googleapis.com/landbot.online/v3/H-2715346-G6WA6MN0Z0HN60EG/index.json',
+              configUrl: 'https://storage.googleapis.com/landbot.online/v3/H-2730479-QHDSG4AT5IMTP2GA/index.json',
             });
           });
           document.head.appendChild(script);
