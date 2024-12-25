@@ -4,7 +4,7 @@ A groundbreaking AI-powered system developed as part of the hackathon hosted by 
 
 ## Hosted Link
 
-Explore the project live: [Reimagine AI System](https://robot-ai.vercel.app/)
+Explore the project live: [Reimagine AI System](https://re-imagine-lac.vercel.app/)
 
 ---
 
