@@ -1,4 +1,4 @@
-# ReImagine 🎨
+# 🤖 ReImagine AI System
 
 A modern, creative web application designed to inspire and innovate. Built using **Next.js** and **Tailwind CSS**, ReImagine offers a seamless user experience with responsive design and efficient performance.
 
