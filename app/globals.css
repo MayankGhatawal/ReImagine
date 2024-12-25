@@ -8,6 +8,19 @@
   scroll-behavior: smooth;
 }
 
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #CCCBCC;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #cbcacb;
+}
+
+
 .word {
   display: inline-block;
   opacity: 0;
