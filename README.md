@@ -2,6 +2,8 @@
 
 A modern, creative web application designed to inspire and innovate. Built using **Next.js** and **Tailwind CSS**, ReImagine offers a seamless user experience with responsive design and efficient performance.
 
+<img src="https://github.com/MayankGhatawal/ReImagine/blob/master/public/images/Screenshot%202024-12-25%20101435.png?raw=true"></img>
+
 ---
 
 ## 🌟 Features
@@ -96,15 +98,6 @@ Check out the live version: [ReImagine Live Demo](https://re-imagine-lac.vercel.
 
 ---
 
-## 🖼️ Screenshots
-
-### Homepage  
-![Homepage](https://github.com/MayankGhatawal/ReImagine/blob/master/public/images/Screenshot%202024-12-25%20101435.png?raw=true)
-
-### About Page  
-![About Page](https://via.placeholder.com/800x400?text=About+Page+Screenshot)
-
----
 
 ## 📝 Contributing
 
