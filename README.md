@@ -99,7 +99,7 @@ Check out the live version: [ReImagine Live Demo](https://re-imagine-lac.vercel.
 ## 🖼️ Screenshots
 
 ### Homepage  
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+![Homepage](https://github.com/MayankGhatawal/ReImagine/blob/master/public/images/Screenshot%202024-12-25%20101435.png?raw=true)
 
 ### About Page  
 ![About Page](https://via.placeholder.com/800x400?text=About+Page+Screenshot)
